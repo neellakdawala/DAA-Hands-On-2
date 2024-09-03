@@ -18,6 +18,7 @@ Que- Benchmark the runtime of each algorithm. Your benchmarks should include inf
 
 Computer Information: 
 
+Silicon M3 Chip
 16GB Ram
 8-core CPU
 10-core GPU

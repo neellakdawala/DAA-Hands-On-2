@@ -29,30 +29,32 @@ Your benchmarks should include information about your computer (RAM, CPU, etc.) 
 
 ### Benchmarks
 
-Enter different input sizes separated by spaces: 5 10 50 100 500 700 1000 5000
-Insertion sort - Input size 5: 0.001438 seconds
-Selection sort - Input size 5: 0.001684 seconds
-Bubble sort - Input size 5: 0.001924 seconds
-Insertion sort - Input size 10: 0.006113 seconds
-Selection sort - Input size 10: 0.003894 seconds
-Bubble sort - Input size 10: 0.004861 seconds
-Insertion sort - Input size 50: 0.035957 seconds
-Selection sort - Input size 50: 0.020179 seconds
-Bubble sort - Input size 50: 0.035228 seconds
-Insertion sort - Input size 100: 0.083118 seconds
-Selection sort - Input size 100: 0.061186 seconds
-Bubble sort - Input size 100: 0.148211 seconds
-Insertion sort - Input size 500: 2.659554 seconds
-Selection sort - Input size 500: 1.815511 seconds
-Bubble sort - Input size 500: 3.722120 seconds
-Insertion sort - Input size 700: 5.674610 seconds
-Selection sort - Input size 700: 3.663761 seconds
-Bubble sort - Input size 700: 7.791280 seconds
-Insertion sort - Input size 1000: 12.404903 seconds
-Selection sort - Input size 1000: 7.540265 seconds
-Bubble sort - Input size 1000: 16.797383 seconds
-Insertion sort - Input size 5000: 342.123140 seconds
-Selection sort - Input size 5000: 186.129209 seconds
-Bubble sort - Input size 5000: 460.696264 seconds
+- Enter different input sizes separated by spaces: 5 10 50 100 500 700 1000 5000
+- Insertion sort - Input size 5: 0.001438 seconds
+- Selection sort - Input size 5: 0.001684 seconds
+- Bubble sort - Input size 5: 0.001924 seconds
+- Insertion sort - Input size 10: 0.006113 seconds
+- Selection sort - Input size 10: 0.003894 seconds
+- Bubble sort - Input size 10: 0.004861 seconds
+- Insertion sort - Input size 50: 0.035957 seconds
+- Selection sort - Input size 50: 0.020179 seconds
+- Bubble sort - Input size 50: 0.035228 seconds
+- Insertion sort - Input size 100: 0.083118 seconds
+- Selection sort - Input size 100: 0.061186 seconds
+- Bubble sort - Input size 100: 0.148211 seconds
+- Insertion sort - Input size 500: 2.659554 seconds
+- Selection sort - Input size 500: 1.815511 seconds
+- Bubble sort - Input size 500: 3.722120 seconds
+- Insertion sort - Input size 700: 5.674610 seconds
+- Selection sort - Input size 700: 3.663761 seconds
+- Bubble sort - Input size 700: 7.791280 seconds
+- Insertion sort - Input size 1000: 12.404903 seconds
+- Selection sort - Input size 1000: 7.540265 seconds
+- Bubble sort - Input size 1000: 16.797383 seconds
+- Insertion sort - Input size 5000: 342.123140 seconds
+- Selection sort - Input size 5000: 186.129209 seconds
+- Bubble sort - Input size 5000: 460.696264 seconds
+
+
 ![Graph](https://github.com/user-attachments/assets/82b8a792-4d5b-4938-af9a-48798c0c37db)
 
